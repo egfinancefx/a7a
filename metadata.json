@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Question Generator",
+  "description": "An AI-powered tool that analyzes images to create high-quality, interactive multiple-choice questions in Arabic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
